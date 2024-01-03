@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package homework;
 
 import java.util.Scanner;
 
-/**
- *
- * @author shaha
- */
 import java.util.Scanner;
 public class schores {
     public static void main (String [] args)
